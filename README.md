@@ -1,1 +1,2 @@
-<h1>Nariz entupido<\h1>
+Oiii
+Meeu primeirto codigo esotu tentando estudar, pórem não terho foco nenhum
